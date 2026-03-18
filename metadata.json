@@ -1,0 +1,5 @@
+{
+  "name": "Edge AI Anomaly Detector",
+  "description": "A real-time industrial sensor anomaly detection system simulating edge deployment constraints with statistical and neural network models.",
+  "requestFramePermissions": []
+}
